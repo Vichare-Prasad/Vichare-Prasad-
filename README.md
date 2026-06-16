@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering Student
+- 🎓 Artificial Intelligence And Data Science Engineering Student
 - 💻 Passionate about Java Full Stack Development
 - 🌱 Currently learning Spring Boot, Hibernate & Microservices
 - 🤖 Interested in AI, Machine Learning and Computer Vision
