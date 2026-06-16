@@ -87,8 +87,8 @@ Java Servlet, JDBC and MySQL based web application.
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/Vichare-Prasad
-- LinkedIn: Add your LinkedIn profile here
-- Email: Add your professional email here
+- LinkedIn: https://www.linkedin.com/in/prasad-vichare-b023a7246/
+- Email:prasadvichare02@gmail.com
 
 ---
 
